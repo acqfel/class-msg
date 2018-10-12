@@ -20,3 +20,11 @@
 li a.navtext {
   color: white;
 }
+
+.number-card{
+  color: #4bb0b8;
+  font-size: 10em;
+  position: absolute;
+  bottom: 5%;
+  left: 40%; 
+}
