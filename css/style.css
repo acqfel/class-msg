@@ -13,18 +13,26 @@
 	font-size: inherit;
 }
 
+/* Nav */
+
 .nav-bg {
   background-color: #4bb0b8;
+}
+
+nav div .brand-logo{
+  font-size: 1.8rem;
 }
 
 li a.navtext {
   color: white;
 }
 
+/* Aula */
+
 .number-card{
   color: #4bb0b8;
   font-size: 10em;
   position: absolute;
-  bottom: 5%;
+  top: 5%;
   left: 40%; 
 }
