@@ -20,4 +20,12 @@
     
   });
 
+  $("#textarea1").focusin(function() {
+    $("#send-icon").addClass("focus-input");
+  });
+
+  $("#textarea1").focusout(function() {
+    $("#send-icon").removeClass("focus-input");
+  });
+
 })(jQuery); // end of jQuery name space

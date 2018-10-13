@@ -36,3 +36,33 @@ li a.navtext {
   top: 5%;
   left: 40%; 
 }
+
+/* Chat */
+
+.aluno {
+  text-align: right;
+  background-color: #92b632;
+  color: white;
+  padding: 5px;
+  border-radius: 10px 10px 0 10px;
+}
+
+.sistema {
+  text-align: left;
+  background-color: #4bb0b8;
+  color: white;
+  padding: 5px;
+  border-radius: 10px 10px 10px 0;
+}
+
+#send-icon {
+  position: relative;
+  width: 3rem;
+  font-size: 2rem;
+  top: 2rem;
+  right: 1rem;
+}
+
+.focus-input {
+  color: #26a69a;
+}
