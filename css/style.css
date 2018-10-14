@@ -55,11 +55,19 @@ li a.navtext {
   border-radius: 10px 10px 10px 0;
 }
 
+.no-margin-bottom {
+  margin-bottom: 0;
+}
+
+.no-margin-top {
+  margin-top: 0;
+}
+
 #send-icon {
   position: relative;
   width: 3rem;
   font-size: 2rem;
-  top: 2rem;
+  top: 1rem;
   right: 1rem;
 }
 
